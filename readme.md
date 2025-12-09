@@ -55,7 +55,7 @@ hyper-degree-random  :  degree_random;
 new_neiNodeSum_1  :  $IPS_{1}^{HCP}$; 
 new_neiNodeSum_1_HNCsize()  :  $IPS_1^{HNG}$, $IPS_{1}^{HCSA}$; 
 tc2_sum_1  :  $IPS_{1}^{HTC} (\theta=0.5)$; 
-tc4_sum_1  :  $IPS_{1}^{HTC} (\theta=0.25)$; 
+tc4_sum_1  :  $IPS_{1}^{HTC} (\theta=0.25)$. 
 
 # The represents of hypergraphs in codes:
 realNet_1 : congress-bills; 
@@ -78,4 +78,5 @@ realNet_17 : M_PL_015_ins;
 realNet_18 : M_PL_015_pl; 
 realNet_19 : M_PL_062_ins; 
 realNet_20 : M_PL_062_pl; 
+realNet_25 : threads-math-sx.
 
