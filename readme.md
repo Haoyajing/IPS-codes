@@ -53,7 +53,7 @@ KMcore_gf  :  hyper-coreness-Rw
 hyper-degree  :  degree
 hyper-degree-random  :  degree_random
 new_neiNodeSum_1  :  $IPS_{1}^{HCP}$
-new_neiNodeSum_1_HNCsize()  :  $IPS_1^{HNG}, $IPS_{1}^{HCSA}
+new_neiNodeSum_1_HNCsize()  :  $IPS_1^{HNG}$, $IPS_{1}^{HCSA}$
 tc2_sum_1  :  $IPS_{1}^{HTC} (\theta=0.5)$
 tc4_sum_1  :  $IPS_{1}^{HTC} (\theta=0.25)$
 
